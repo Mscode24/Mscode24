@@ -1,21 +1,4 @@
-
-# Hi there! 👋
-
-I'm [Your Name], a passionate [Your Profession/Role] based in [Your Location]. I love working with technology and constantly exploring new ways to solve problems. Here's a bit about me:
-
-- 🔭 I’m currently working on [Current Project/Job]
-- 🌱 I’m currently learning [Technologies or Skills you are learning]
-- 👯 I’m looking to collaborate on [Open Source Projects or specific types of projects]
-- 💬 Ask me about [Areas of expertise or specific technologies]
-- 📫 How to reach me: [Your Email or Social Media Links]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [Interesting or quirky fact about yourself]
-
-## Skills
-
-- **Programming Languages:** [List of languages you are proficient in]
-- **Frameworks & Libraries:** [Frameworks or 
-# 💫 About Me:
+# 💫 About Me
 # Hi there! 👋<br><br>I'm Mariselvam, a passionate Python developer based in INDIA. I thrive on working with technology and am constantly exploring new ways to solve problems. Here's a bit about me:<br><br>- 🔭 I’m currently working on a project called "PPT Slide Control with Computer Vision in Python."<br>- 🌱 I’m currently learning about advanced computer vision techniques and enhancing my skills in Python.<br>- 👯 I’m looking to collaborate on open source projects related to computer vision or Python development.<br>- 💬 Ask me about Python development, computer vision, or anything tech-related!<br>- 📫 How to reach me: Feel free to drop me an email at tutymari2k4@gmail.com <br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I once coded through an entire night fueled by nothing but coffee and a strong passion for solving a challenging problem!<br>
 
 
